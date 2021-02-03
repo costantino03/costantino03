@@ -11,7 +11,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=costantino03k&show_icons=true&hide_border=true" />
+  <img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=costantino03&show_icons=true&hide_border=true"/>
 
 </details>
 
