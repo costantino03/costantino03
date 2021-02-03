@@ -11,4 +11,4 @@
 
 
 
-[img_discord]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg
+[discord]: https://github.com/costantino03
