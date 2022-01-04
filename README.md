@@ -6,7 +6,7 @@
 ## Creare bot su telegram
 ### Social:
 
-[<img align="left" alt="SweetieRick | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
 [<img align="left" alt="SweetieRick | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 ### Linguaggi che conosco...
