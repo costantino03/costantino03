@@ -24,5 +24,5 @@
 </details>
 
 
-[discord]: https://github.com/costantino03
+
 [telegram]: https://t.me/costantino03
