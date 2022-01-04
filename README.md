@@ -1,4 +1,4 @@
-# Ciao, sono costantino03 ho 18 anni e sono nato nel 14 agosto del 2003
+# Ciao, sono costantino03 ho 18 anni e sono nato il 14 agosto del 2003
 # Anno Scolatico: 5° Indirizzo: informatica e telecomunicazioni
 # Le mie passioni sono:
 ## Sperimentare modi vari per utilizzare i database mysql
