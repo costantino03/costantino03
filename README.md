@@ -1,4 +1,4 @@
-# Ciao, sono costantino03 ho 18 anni e sono nato il 14 agosto del 2003
+# Ciao, sono costantino03 ho 19 anni e sono nato il 14 agosto del 2003
 # Diplomato in Informatica e Telecomunicazioni Presso I.I.S Mattei Fortunato
 # Le mie passioni sono:
 ## Sperimentare modi vari per utilizzare i database mysql
