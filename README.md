@@ -17,7 +17,7 @@
 <details>
    <summary>:key: stuffs</summary>
    
-  [pgp_key]: https://raw.githubusercontent.com/costantino03/costantino03/main/pub_pgp_key.key
+  [:key: pgp_key]: https://raw.githubusercontent.com/costantino03/costantino03/main/pub_pgp_key.key
    
   </details>
   
