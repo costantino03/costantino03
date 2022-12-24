@@ -16,7 +16,7 @@
 <br />
 <details>
    <summary>:key: stuffs</summary>
-   [my pubblic key:](https://raw.githubusercontent.com/costantino03/costantino03/main/pub_pgp_key.key "pub_pgp_key.key")
+   [my pubblic key]: [http://www.reddit.com](https://raw.githubusercontent.com/costantino03/costantino03/main/pub_pgp_key.key)
   </details>
   
 <details>
