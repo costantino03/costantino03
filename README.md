@@ -16,7 +16,6 @@
 <br />
 <details>
    <summary>:key: stuffs</summary>
-   [my pubblic key]: [http://www.reddit.com](https://raw.githubusercontent.com/costantino03/costantino03/main/pub_pgp_key.key)
   </details>
   
 <details>
@@ -33,3 +32,5 @@
 
 
 [telegram]: https://t.me/costantino03
+
+[my pubblic key]: [http://www.reddit.com](https://raw.githubusercontent.com/costantino03/costantino03/main/pub_pgp_key.key)
