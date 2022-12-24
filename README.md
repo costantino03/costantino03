@@ -16,15 +16,14 @@
 <br />
 <details>
    <summary>:key: stuffs</summary>
-   
-  [:key: pgp_key]: https://raw.githubusercontent.com/costantino03/costantino03/main/pub_pgp_key.key
-   
+   [my pubblic key:](https://raw.githubusercontent.com/costantino03/costantino03/main/pub_pgp_key.key "pub_pgp_key.key")
   </details>
   
 <details>
  
    <summary>:zap: Github Stats</summary>
 
+  
   <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=costantino03&count_private=true&show_icons=true" />
   
   <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costantino03&count_private=true&show_icons=true" />
