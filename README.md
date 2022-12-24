@@ -16,8 +16,11 @@
 <br />
 <details>
    <summary>:key: stuffs</summary>
-  [my pubblic pgp key]: https://raw.githubusercontent.com/costantino03/costantino03/main/pub_pgp_key.key
+   
+  [pgp_key]: https://raw.githubusercontent.com/costantino03/costantino03/main/pub_pgp_key.key
+   
   </details>
+  
 <details>
  
    <summary>:zap: Github Stats</summary>
