@@ -15,6 +15,9 @@
 <br />
 <br />
 <details>
+  [pgp :key:]: pub_pgp_key.key
+  </details>
+<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=costantino03&count_private=true&show_icons=true" />
