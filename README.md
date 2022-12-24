@@ -16,7 +16,7 @@
 <br />
 <details>
    <summary>:key: stuffs</summary>
-  [pgp :key:](pub_pgp_key.key)
+  [my pubblic pgp key](pub_pgp_key.key)
   </details>
 <details>
  
