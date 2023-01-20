@@ -31,7 +31,7 @@
    <summary>:zap: Badges</summary>
 
   
-  <img align="left" alt="Cisco Introduction to Cybersecurity" src="https://www.credly.com/badges/22376d1c-9308-4946-aa88-f3c677688082/public_url" />
+  <img align="left" alt="Cisco Introduction to Cybersecurity" src=".//badges/introduction-to-cybersecurity.png" />
 
 </details>
 
