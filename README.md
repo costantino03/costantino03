@@ -25,7 +25,14 @@
   <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costantino03&count_private=true&show_icons=true" />
 
 </details>
+<br/>
+<details>
+ 
+   <summary>:zap: Badges</summary>
 
+  
+  <img align="left" alt="Cisco Introduction to Cybersecurity" src="https://www.credly.com/badges/22376d1c-9308-4946-aa88-f3c677688082/public_url" />
 
+</details>
 
 [telegram]: https://t.me/costantino03
